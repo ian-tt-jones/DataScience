@@ -1,0 +1,2 @@
+In the main folder cs462 you will find work I did in the clas CMSC 462 Data Science in my undergraduate career at UMBC. In this class I worked with visualozing and performing various calculations on data to better understand it and draw more meaning from it. Data Science is used 
+everywhere in the real world and the skills I obtained from this class can help any company. I primarily worked in the R programming language but I also did work with excel spreadsheets.
